@@ -1,0 +1,7 @@
+id=ReduceWoodWeight
+name=Reduce Wood Weight
+modversion=1.0.0
+url=https://github.com/voguh/pz-reduce-wood-weight
+description=This mod was inspired in Kechna's wood weight mods. I just merged the idea of each mod and added (in sandbox mode) a selector to define reduce percentage, with the default set to 75%. Additionally, I extended the reduction feature to spears where the base spear has the same weight as the Tree Branch.
+author=Voguh
+poster=poster.png
