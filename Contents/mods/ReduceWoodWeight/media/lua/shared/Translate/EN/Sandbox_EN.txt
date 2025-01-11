@@ -1,0 +1,7 @@
+Sandbox_EN = {
+    Sandbox_ReduceWoodWeight = "Reduce Wood Weight",
+    Sandbox_ReduceWoodWeight_ReducePercentage = "Reduce Percentage",
+    Sandbox_ReduceWoodWeight_ReducePercentageValues_option1 = "25%",
+    Sandbox_ReduceWoodWeight_ReducePercentageValues_option2 = "50%",
+    Sandbox_ReduceWoodWeight_ReducePercentageValues_option3 = "75%"
+}

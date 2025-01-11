@@ -1,0 +1,10 @@
+VERSION = 1,
+
+option ReduceWoodWeight.ReducePercentage {
+    type = enum,
+    numValues = 3,
+    default = 1,
+    page = ReduceWoodWeight,
+    translation = ReduceWoodWeight_ReducePercentage,
+    valueTranslation = ReduceWoodWeight_ReducePercentageValues,
+}
