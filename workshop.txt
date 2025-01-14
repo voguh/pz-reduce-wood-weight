@@ -1,6 +1,6 @@
 version=1
 id=3405317583
-title=Reduce Wood Weight
+title=[B41] Reduce Wood Weight
 description=This mod was inspired in [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2671262464]Kechna's 75% Wood Weight[/url].
 description=
 description=I just merged the idea of each mod and added (in sandbox mode) a reduction selector, with the default set to 50%.
@@ -8,9 +8,11 @@ description=Additionally, I extended the reduction feature to spears where the b
 description=
 description=
 description=
-description=This item is not authorized for posting on Steam, except under the Steam account named Voguh.
-description=[code]
-description=This project is under GNU LESSER GENERAL PUBLIC LICENSE, Version 3.
-description=[/code]
+description=[quote]
+description=⚠️ This item is not authorized for posting on Steam, except under the Steam account named Voguh.
+description=[/quote]
+description=[quote]
+description=⚠️ This project is under GNU LESSER GENERAL PUBLIC LICENSE, Version 3.
+description=[/quote]
 tags=Build 41;Items
-visibility=friendsOnly
+visibility=public
